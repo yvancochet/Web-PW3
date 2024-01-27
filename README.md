@@ -66,7 +66,8 @@ Since the app is quite simple, there are only 4 requests that the front-end can 
 - DELETE [delete note]
 <br/><br/>
 These operations are done via browsing the back-end API, wwhich always returns data as json. The front-end then parses the data and display is properly to the user.<br/>
-<img width="567" alt="image" src="https://github.com/yvancochet/Web-PW3/assets/71433754/0249eb25-73cb-44c8-a223-2e86dc041dad">
+<img width="568" alt="image" src="https://github.com/yvancochet/Web-PW3/assets/71433754/36d11fc3-22dc-474e-aef4-083cf00c847a">
+
 <br/><br/>
 
 ### Get note
