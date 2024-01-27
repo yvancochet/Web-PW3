@@ -89,6 +89,9 @@ These operations are done via browsing the back-end API, wwhich always returns d
 <img width="707" alt="image" src="https://github.com/yvancochet/Web-PW3/assets/71433754/80de6511-bb13-49d7-9441-c98a74cb11db">
 <img width="769" alt="image" src="https://github.com/yvancochet/Web-PW3/assets/71433754/017b9356-b06a-49ce-9bc2-5cea265be56f">
 
-
-
+## Sources
+- https://www.freecodecamp.org/news/full-stack-project-tutorial-create-a-notes-app-using-react-and-node-js/#part-2-create-the-backend
+- https://medium.com/@antonio.maccarini/dockerize-a-react-application-with-node-js-postgres-and-nginx-124c204029d4
+- https://wkrzywiec.medium.com/how-to-run-database-backend-and-frontend-in-a-single-click-with-docker-compose-4bcda66f6de
+- https://chat.openai.com/
 
