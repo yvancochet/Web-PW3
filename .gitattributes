@@ -1,0 +1,46 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Explicitly declare text files that should always use LF line endings
+*.js text eol=lf
+*.jsx text eol=lf
+*.txs text eol=lf
+*.ts text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+Dockerfile text eol=lf
+docker-compose.yml text eol=lf
+
+# Denote all binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+
+# Custom for Windows files to keep CRLF
+*.bat text eol=crlf
+
+# Minimized JavaScript and CSS files should be treated as binary
+*.min.js binary
+*.min.css binary
+
+# Use diff filter for specific files
+*.json diff=json
+*.yml diff=yaml
+*.yaml diff=yaml
+
+# Exclude files from the archive (export-ignore)
+*.md export-ignore
+*.gitattributes export-ignore
+*.gitignore export-ignore
+Dockerfile.dev export-ignore
+docker-compose.override.yml export-ignore
