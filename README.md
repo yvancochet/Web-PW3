@@ -2,13 +2,13 @@
 ---
 ## Introduction
 
-The aim of this project is to get familiar with modern developpment architecture with separated front-end and back-end.
+The aim of this project is to get familiar with modern developpement architecture with separated front-end and back-end.
 The objective is to realise an app with a Node.js framework for the front-end and the back-end with a separate database.
 We must expose an api via our back-end and use it with our front-end.
 
 ## Project
 
-The project we decides to realise is a simple notes app. It is quite simlpe, one can create, edit, remove notes within a web interface that is fully responsive. <br/>
+The project we decides to realise is a notes app. It is quite simlpe, one can create, edit, remove notes within a web interface that is fully responsive. <br/>
 Here are the technology used : <br/>
 <br/>
 
@@ -31,7 +31,7 @@ Use the following command on root folder : <br/>
 docker compose up --build
 ```
 ### App developpement
-All of the instructions above were tester on a Windows Subsystem for linux and are aimed to be used on a linux system. <br/>
+All of the instructions above were tested on a Windows Subsystem for linux and are aimed to be used on a linux system. <br/>
 Since no dev container was used for this project, you must have the following installed on your machine, otherwise, you can create devcontainers yourself : <br/>
 - NPM & NPX
 - Node
